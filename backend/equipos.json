@@ -1,0 +1,31 @@
+{
+    "api": {
+        "equipos": [
+            {
+                "id": "10",
+                "nombre": "America",
+                "liga": "Mexico"
+            },
+            {
+                "id": "20",
+                "nombre": "Barcelona",
+                "liga": "España"
+            },
+            {
+                "id": "30",
+                "nombre": "Bayer Munich",
+                "liga": "Alemania"            
+            },
+            {
+                "id": "40",
+                "nombre": "PSG",
+                "liga": "Francia"
+            },
+            {
+                "id": "50",
+                "nombre": "Juventus",
+                "liga": "Italia"
+            }
+        ]
+    }
+}

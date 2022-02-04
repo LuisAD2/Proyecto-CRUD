@@ -1,0 +1,4 @@
+url con el json trabajado y que fue consumido por la appMovil
+Se creo una FakeApi con ayuda del servidor de Firebase
+
+https://equipos-a1f73-default-rtdb.firebaseio.com/api.json
